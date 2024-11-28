@@ -28,25 +28,6 @@ The CGPA Calculator is a simple project developed in C++ to calculate a student'
    - Fail: Below 50%
 4. The result, including the grade, is displayed to the user.
 
-## Installation
-To run the CGPA Calculator:
-To run the CGPA Calculator:
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/cgpa-calculator.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd cgpa-calculator
-    ```
-3. Compile the source code using a C++ compiler:
-    ```bash
-    g++ cgpa_calculator.cpp -o cgpa_calculator
-    ```
-4. Run the compiled program:
-    ```bash
-    ./cgpa_calculator
-    ```
 
 ## Requirements
 - A C++ compiler (e.g., GCC, Clang, or MSVC).
